@@ -1,5 +1,5 @@
 # Deep_Koopman_Auxillary_Net
-
+# Implementation code of Deep Learning based Koopkman operator 
 
 <img width="648" height="664" alt="image" src="https://github.com/user-attachments/assets/2b6a409c-ad7b-4c29-a3e4-42348d983253" />
 <img width="649" height="520" alt="image" src="https://github.com/user-attachments/assets/69c5be34-2d27-4b57-9351-e371cb30b84d" />
